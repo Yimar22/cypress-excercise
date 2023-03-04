@@ -1,0 +1,17 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Yimar Yimar2001@gmail.com https://github.com/Yimar22",
+  "license": "MIT"
+}
