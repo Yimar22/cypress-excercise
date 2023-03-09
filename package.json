@@ -13,5 +13,8 @@
     "cypress"
   ],
   "author": "Yimar Yimar2001@gmail.com https://github.com/Yimar22",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
