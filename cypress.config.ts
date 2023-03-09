@@ -8,7 +8,7 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // modify config values examples
       // config.defaultCommandTimeout = 10000
-
+      config.video = false;
       // IMPORTANT return the updated config object
       return config;
     },
